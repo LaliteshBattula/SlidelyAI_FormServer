@@ -15,3 +15,15 @@ Install dependencies: npm install
 # Usage
 Start the server using "npm start" command.
 Server will be running on http://localhost:2003 by default
+
+# Screenshots
+Here are some screenshots of the backend server in action:
+
+![Ping Endpoint](C:/Users/HOME/Pictures/Screenshots/ping.png)
+*Ping endpoint response*
+
+![Read Endpoint](C:/Users/HOME/Pictures/Screenshots/readIndex.png)
+*Submission by index GET request*
+
+![Email Endpoint](C:/Users/HOME/Pictures/Screenshots/readEmail.png)
+*Submission by email GET request*
