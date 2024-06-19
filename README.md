@@ -19,11 +19,11 @@ Server will be running on http://localhost:2003 by default
 # Screenshots
 Here are some screenshots of the backend server in action:
 
-![Ping Endpoint](C:/Users/HOME/Pictures/Screenshots/ping.png)
+![Ping Endpoint](screenshots/ping.png)
 *Ping endpoint response*
 
-![Read Endpoint](C:/Users/HOME/Pictures/Screenshots/readIndex.png)
+![Read Endpoint](screenshots/readIndex.png)
 *Submission by index GET request*
 
-![Email Endpoint](C:/Users/HOME/Pictures/Screenshots/readEmail.png)
+![Email Endpoint](screenshots/readEmail.png)
 *Submission by email GET request*
